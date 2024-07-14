@@ -1,6 +1,7 @@
 # RSYNC-PROXY
 
 A simple rsync proxy server that can be used to balance rsync traffic across multiple rsync servers.
+重构自：https://github.com/ustclug/rsync-proxy
 
 Author: [futz12](https://www.github.com/futz12)
 
